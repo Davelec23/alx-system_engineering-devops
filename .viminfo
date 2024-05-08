@@ -23,16 +23,54 @@
 # Registers:
 
 # File marks:
-'0  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
-|4,48,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
+'0  2  34  ~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb
+|4,48,2,34,1715200570,"~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb"
+'1  1  9  ~/alx-system_engineering-devops/0x06-regular_expressions/README.md
+|4,49,1,9,1715200454,"~/alx-system_engineering-devops/0x06-regular_expressions/README.md"
+'2  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,50,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
 
 # Jumplist (newest first):
+-'  2  34  ~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb
+|4,39,2,34,1715200570,"~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb"
+-'  1  0  ~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb
+|4,39,1,0,1715200562,"~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb"
+-'  1  9  ~/alx-system_engineering-devops/0x06-regular_expressions/README.md
+|4,39,1,9,1715200454,"~/alx-system_engineering-devops/0x06-regular_expressions/README.md"
+-'  1  9  ~/alx-system_engineering-devops/0x06-regular_expressions/README.md
+|4,39,1,9,1715200454,"~/alx-system_engineering-devops/0x06-regular_expressions/README.md"
+-'  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
+-'  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
+-'  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
 -'  2  31  ~/0x06-regular_expressions/0-simply_match_school.rb
 |4,39,2,31,1715196254,"~/0x06-regular_expressions/0-simply_match_school.rb"
 -'  1  0  ~/0x06-regular_expressions/0-simply_match_school.rb
 |4,39,1,0,1715196157,"~/0x06-regular_expressions/0-simply_match_school.rb"
+-'  1  0  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,1,0,1715196157,"~/0x06-regular_expressions/0-simply_match_school.rb"
+-'  1  0  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,1,0,1715196157,"~/0x06-regular_expressions/0-simply_match_school.rb"
+-'  1  0  ~/0x06-regular_expressions/0-simply_match_school.rb
+|4,39,1,0,1715196157,"~/0x06-regular_expressions/0-simply_match_school.rb"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x06-regular_expressions/1-repetition_token_0.rb
+	*	1715200568	0
+	"	2	34
+	^	2	35
+	.	2	34
+	+	2	34
+
+> ~/alx-system_engineering-devops/0x06-regular_expressions/README.md
+	*	1715200453	0
+	"	1	9
+	^	1	10
+	.	2	0
+	+	2	0
 
 > ~/0x06-regular_expressions/0-simply_match_school.rb
 	*	1715196226	0
